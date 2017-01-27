@@ -1,8 +1,8 @@
-# Logistics and Links for Ann Arbor Data Rescue
+##Important Links + Information for Ann Arbor Data Rescue Event##
 
 Code of Conduct: http://bit.ly/2kAHZey
 
-Wireless Access:
+Wireless
 UMich Members: MWireless
 Guests: Eduroam or MGuest
 
