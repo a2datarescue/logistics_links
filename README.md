@@ -16,8 +16,8 @@ Guests: Eduroam or MGuest
 
 ##Guide to Using Chrome Extension: http://bit.ly/2jbKinL
 
-##NOAA OAR Sub-Primer: https://docs.google.com/document/d/168zs8PBQqoS_Z648AZJ4B2QukVAbBLbI0XuBCSsOHJ8/edit
+##NOAA OAR Sub-Primer: [Google Doc](https://docs.google.com/document/d/168zs8PBQqoS_Z648AZJ4B2QukVAbBLbI0XuBCSsOHJ8/edit)
 - Starting Point 1
 
-##NOAA NESDIS Sub-Primer: https://docs.google.com/document/d/1DW5N6yO_7TLTvoLIgqm0Xrwuv546IwH1q-ad1tYImZk/edit
+##NOAA NESDIS Sub-Primer: [Google Doc](https://docs.google.com/document/d/1DW5N6yO_7TLTvoLIgqm0Xrwuv546IwH1q-ad1tYImZk/edit)
 - Starting Point 14
