@@ -4,6 +4,7 @@
 
 ##Wireless Access:
 UMich Members: MWireless
+
 Guests: Eduroam or MGuest
 
 ##Restrooms
