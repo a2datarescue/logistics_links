@@ -1,6 +1,6 @@
 #Logistics and Links for Ann Arbor Data Rescue
 
-#Code of Conduct: http://bit.ly/2kAHZey
+##Code of Conduct: http://bit.ly/2kAHZey
 
 ##Wireless Access:
 UMich Members: MWireless
