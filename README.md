@@ -23,6 +23,7 @@ Guests: Eduroam or MGuest
 ##NASA Science and Exploration Directorate Earth Sciences Sub-Primer: [Google Doc](https://docs.google.com/document/d/1MTEHXois01F_zh-_xJBYt1iUB03eXOzxpPsvhzQSgus/edit)
 - This is the new document we started using just after 1pm today.
 
+##Department of Energy: Energy Information Administration (EIA)[Google Doc](https://docs.google.com/document/d/1QcZ5URZCmr_YWFBxcBO-V-ri985WF3ScKeIrD5yXBew/edit)
 ~~##NOAA OAR Sub-Primer: [Google Doc]~~
 
 ~~- Starting Point 1~~
