@@ -18,7 +18,7 @@ Guests: Eduroam or MGuest
 ##Guide to Using Chrome Extension: http://bit.ly/2jbKinL
 
 ##NASA Earth Science Sub-Primer: [Google Doc](https://docs.google.com/document/d/1tFektmeXsdUk_0aN0bnxdKAhVpXRU2YZioc90ermu84/edit)
-~~##NOAA OAR Sub-Primer: [Google Doc](https://docs.google.com/document/d/168zs8PBQqoS_Z648AZJ4B2QukVAbBLbI0XuBCSsOHJ8/edit)~~
+~~##NOAA OAR Sub-Primer: [Google Doc](https://docs.google.com/document/d/1asijucNkcg2qm4xmOOawChgnd9iS0DqbhUWjWC9riwU/edit)~~
 
 ~~- Starting Point 1~~
 
