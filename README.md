@@ -25,5 +25,3 @@ Guests: Eduroam or MGuest
 ~~##NOAA NESDIS Sub-Primer: [Google Doc](https://docs.google.com/document/d/1DW5N6yO_7TLTvoLIgqm0Xrwuv546IwH1q-ad1tYImZk/edit)~~
 
 ~~- Starting Point 14~~
-
-[Researcher + Harvesting Spreadsheet](https://docs.google.com/spreadsheets/d/1Jcnl8w3WdfzLeyv1laJtO2PMilXj3FZaJS95AKKMk1k/edit?userstoinvite=laallen@upenn.edu&ts=588b5d53&actionButton=1#gid=0)
