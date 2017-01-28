@@ -24,6 +24,8 @@ Guests: Eduroam or MGuest
 - This is the new document we started using just after 1pm today.
 
 ##Department of Energy: Energy Information Administration (EIA)[Google Doc](https://docs.google.com/document/d/1QcZ5URZCmr_YWFBxcBO-V-ri985WF3ScKeIrD5yXBew/edit)
+
+##Department of Energy: Office of Science (OS) [Google Doc](https://docs.google.com/document/d/1q-D7eq6P5SDxt6wiODHd9FbLq-ZUH7SYiCSuiNNs6gc/edit)
 ~~##NOAA OAR Sub-Primer: [Google Doc]~~
 
 ~~- Starting Point 1~~
