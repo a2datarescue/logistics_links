@@ -17,7 +17,12 @@ Guests: Eduroam or MGuest
 
 ##Guide to Using Chrome Extension: http://bit.ly/2jbKinL
 
-##NASA Earth Science Sub-Primer: [Google Doc](https://docs.google.com/document/d/1asijucNkcg2qm4xmOOawChgnd9iS0DqbhUWjWC9riwU/edit)
+##NASA Science Mission Directorate: Earth Science Sub-Primer: [Google Doc](https://docs.google.com/document/d/1asijucNkcg2qm4xmOOawChgnd9iS0DqbhUWjWC9riwU/edit)
+- This is the one we started with today.
+
+##NASA Science and Exploration Directorate Earth Sciences Sub-Primer: [Google Doc](https://docs.google.com/document/d/1MTEHXois01F_zh-_xJBYt1iUB03eXOzxpPsvhzQSgus/edit)
+- This is the new document we started using just after 1pm today.
+
 ~~##NOAA OAR Sub-Primer: [Google Doc]~~
 
 ~~- Starting Point 1~~
