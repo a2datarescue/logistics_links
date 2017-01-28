@@ -26,6 +26,8 @@ Guests: Eduroam or MGuest
 ##Department of Energy: Energy Information Administration (EIA)[Google Doc](https://docs.google.com/document/d/1QcZ5URZCmr_YWFBxcBO-V-ri985WF3ScKeIrD5yXBew/edit)
 
 ##Department of Energy: Office of Science (OS) [Google Doc](https://docs.google.com/document/d/1q-D7eq6P5SDxt6wiODHd9FbLq-ZUH7SYiCSuiNNs6gc/edit)
+
+##Department of Energy: National Renewable Energy Laboratory [Google Doc](https://docs.google.com/document/d/10P6cpB2yqlvNRolrAmaLW4E0DSmOqHjAJtu6NQX9tgI/edit)
 ~~##NOAA OAR Sub-Primer: [Google Doc]~~
 
 ~~- Starting Point 1~~
