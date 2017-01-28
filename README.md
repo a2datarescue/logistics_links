@@ -17,10 +17,11 @@ Guests: Eduroam or MGuest
 
 ##Guide to Using Chrome Extension: http://bit.ly/2jbKinL
 
-##NOAA OAR Sub-Primer: [Google Doc](https://docs.google.com/document/d/168zs8PBQqoS_Z648AZJ4B2QukVAbBLbI0XuBCSsOHJ8/edit)
-- Starting Point 1
+##NASA Earth Science Sub-Primer: [Google Doc](https://docs.google.com/document/d/1tFektmeXsdUk_0aN0bnxdKAhVpXRU2YZioc90ermu84/edit)
+~~##NOAA OAR Sub-Primer: [Google Doc](https://docs.google.com/document/d/168zs8PBQqoS_Z648AZJ4B2QukVAbBLbI0XuBCSsOHJ8/edit)
+- Starting Point 1~~
 
-##NOAA NESDIS Sub-Primer: [Google Doc](https://docs.google.com/document/d/1DW5N6yO_7TLTvoLIgqm0Xrwuv546IwH1q-ad1tYImZk/edit)
-- Starting Point 14
+~~##NOAA NESDIS Sub-Primer: [Google Doc](https://docs.google.com/document/d/1DW5N6yO_7TLTvoLIgqm0Xrwuv546IwH1q-ad1tYImZk/edit)
+- Starting Point 14~~
 
 [Researcher + Harvesting Spreadsheet](https://docs.google.com/spreadsheets/d/1Jcnl8w3WdfzLeyv1laJtO2PMilXj3FZaJS95AKKMk1k/edit?userstoinvite=laallen@upenn.edu&ts=588b5d53&actionButton=1#gid=0)
